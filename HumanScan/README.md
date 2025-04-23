@@ -62,7 +62,4 @@ If you use this dataset or analysis in your work, please cite:
 ---
 
 ## Contact
-For questions or issues regarding this dataset or analysis, please contact:
-- **Name**: [Your Full Name]
-- **Email**: [Your Email Address]
 - **GitHub**: [https://github.com/ganta86](https://github.com/ganta86)
